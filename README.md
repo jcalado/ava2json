@@ -3,7 +3,7 @@ Converts [AVAPlayer](https://www.avaplayer.com/website/) history.txt to a simple
 
 Tries to fetch data whith every request to `/history`
 
-# Structure
+## Structure
 
 Retuns an array of objects:
 
@@ -15,3 +15,6 @@ Retuns an array of objects:
   "duration":"02:58"
 }
 ```
+
+## Encoding
+AVAPlayer uploads `latin1`, this server returns `UTF-8`
