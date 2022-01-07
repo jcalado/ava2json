@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/26873/148603037-c3eee0eb-8f0c-4b92-8880-6f03fda7f1ca.png)
+
 # ava2json
 Converts [AVAPlayer](https://www.avaplayer.com/website/) history.txt to a simple json endpoint
 
@@ -18,3 +20,7 @@ Retuns an array of objects:
 
 ## Encoding
 AVAPlayer uploads `latin1`, this server returns `UTF-8`
+
+---
+
+_AVAPlayer and its logo are trademark of their owner._
